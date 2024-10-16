@@ -1,0 +1,113 @@
+﻿* {
+margin: 0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+.content .container {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+margin-top: 50px;
+gap: 20px;
+}
+
+.content .container .statDetail {
+display: flex;
+align-items: center;
+gap: 50px;
+}
+
+.content .container .statDetail .rowlabel {
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+gap: 6px;
+}
+
+.Head {
+font-size: 18px;
+font-weight: bold;
+}
+
+.content .container .cartCustomers {
+display: flex;
+flex-direction: column;
+gap: 10px;
+align-items: center;
+}
+
+.content .container .cartCustomers .inputQuantitys {
+display: flex;
+gap: 10px;
+align-items: center;
+}
+
+.content .container .cartCustomers .inputQuantitys input {
+padding: 5px;
+border-radius: 5px;
+width: 50px;
+border: 1px solid gray;
+}
+
+.btn {
+border-radius: 5px;
+display: flex;
+align-items: center;
+align-content: center;
+font-size: 20px;
+justify-content: center;
+border: 1px solid #ddd;
+padding: 3px 7px;
+background-color: rgb(220,220,220,0,5);
+cursor: pointer;
+}
+
+.btn:hover{
+background-color: white;
+}
+
+.errorMessage {
+width: 100%;
+display: flex;
+justify-content: center;
+font-size: 14px;
+}
+
+.buttonAdd {
+width: 140px;
+border-radius: 5px;
+border: 1px solid #3CBA54;
+padding: 10px;
+background-color: white;
+color: #3CBA54;
+cursor: pointer;
+font-weight: 600;
+font-size: 14px;
+}
+
+.buttonUpdate {
+width: 140px;
+border-radius: 5px;
+border: 1px solid #3CBA54;
+padding: 10px;
+background-color: white;
+color: #3CBA54;
+cursor: pointer;
+font-weight: 600;
+font-size: 14px;
+}
+
+
+.buttonAdd:hover {
+background-color: #42B549;
+color: white;
+}
+
+
+.buttonUpdate:hover {
+    background-color: #42B549;
+    color: white;
+}

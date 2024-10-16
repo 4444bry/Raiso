@@ -1,0 +1,113 @@
+﻿* {
+margin: 0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+.content {
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 30px;
+}
+
+.content .container {
+display: flex;
+flex-direction: column;
+background-color: #f8fafc;
+border: 1px solid rgb(220, 220, 220);
+border-radius: 10px;
+width: 550px;
+}
+
+.content .container .itemlist {
+background-color: #3CBA54;
+color: white;
+border-bottom: 1px solid rgb(220, 220, 220);
+border-radius: 10px 10px 0px 0px;
+padding: 20px;
+font-size: 18px;
+font-weight: bold;
+}
+
+.content .stationery{
+display:flex;
+justify-content:center;
+}
+
+.content .stationery .container2 {
+padding: 20px;
+display: flex;
+gap: 15px;
+flex-direction: column;
+}
+
+.gridview th {
+background-color: white;
+color: #333;
+font-weight: bold;
+padding: 20px;
+border: 1px solid #ddd;
+}
+
+.gridview td {
+border: 1px solid #ddd;
+text-align: center;
+padding: 8px;
+}
+
+.gridview tr:nth-child(even) {
+background-color: #f2f2f2;
+}
+
+.gridview tr:nth-child(odd) {
+background-color: white;
+}
+
+.action-buttoncek {
+padding: 10px 15px;
+border-radius: 5px;
+border: 1px solid #3CBA54;
+background-color: #3CBA54;
+cursor: pointer;
+color: white;
+width: fit-content;
+align-self: end;
+}
+.action-buttoncek:hover {
+background-color: rgb(60, 186, 84,0.9);
+}
+
+.action-buttonup {
+padding: 10px 15px;
+border-radius: 5px;
+border: 1px solid #3CBA54;
+background-color: white;
+cursor: pointer;
+color: #42B549;
+}
+
+.action-buttonup:hover {
+background-color: #3CBA54;
+color: white;
+}
+
+
+.action-buttondel {
+padding: 10px 15px;
+border-radius: 5px;
+border: none;
+background-color: #DB3236;
+color: white;
+cursor: pointer;
+}
+
+.action-buttondel:hover {
+background-color: red;
+}
+
+
+.empty {
+font-size: 18px;
+color: gray;
+}

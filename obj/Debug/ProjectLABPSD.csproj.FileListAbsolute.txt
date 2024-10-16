@@ -1,0 +1,269 @@
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\ProjectLABPSD.dll.config
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\ProjectLABPSD.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\ProjectLABPSD.pdb
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\csc.exe
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\csc.exe.config
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\csc.rsp
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\csi.exe
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\csi.exe.config
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\csi.rsp
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.AppContext.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Collections.Immutable.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Console.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Globalization.Calendars.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.IO.Compression.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.IO.FileSystem.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Net.Http.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Net.Sockets.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Reflection.Metadata.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.ValueTuple.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Xml.XPath.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\vbc.exe
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\vbc.exe.config
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\vbc.rsp
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\VBCSCompiler.exe
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\roslyn\VBCSCompiler.exe.config
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\EntityFramework.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\EntityFramework.SqlServer.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\EntityFramework.xml
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\EntityFramework.SqlServer.xml
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\obj\Debug\ProjectLABPSD.csproj.AssemblyReference.cache
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\obj\Debug\ProjectLABPSD.csproj.CoreCompileInputs.cache
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\obj\Debug\ProjectL.F2A29995.Up2Date
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\obj\Debug\ProjectLABPSD.dll
+E:\WELLEND\Kuliah\Semester 4\PatternSoftware Design\ProjectLAB\ProjectLABPSD\obj\Debug\ProjectLABPSD.pdb
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\ProjectLABPSD.dll.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\ProjectLABPSD.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\ProjectLABPSD.pdb
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\csc.exe
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\csc.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\csc.rsp
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\csi.exe
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\csi.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\csi.rsp
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.AppContext.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Collections.Immutable.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Console.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Globalization.Calendars.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.IO.Compression.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.IO.FileSystem.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Net.Http.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Net.Sockets.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.ValueTuple.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Xml.XPath.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\vbc.exe
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\vbc.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\vbc.rsp
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\VBCSCompiler.exe
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\roslyn\VBCSCompiler.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\EntityFramework.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\EntityFramework.SqlServer.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\EntityFramework.xml
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\EntityFramework.SqlServer.xml
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\obj\Debug\ProjectLABPSD.csproj.AssemblyReference.cache
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\obj\Debug\ProjectLABPSD.csproj.CoreCompileInputs.cache
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\obj\Debug\ProjectL.F2A29995.Up2Date
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\obj\Debug\ProjectLABPSD.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\obj\Debug\ProjectLABPSD.pdb
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\obj\Debug\ProjectLABPSD.csproj.AssemblyReference.cache
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\obj\Debug\ProjectLABPSD.csproj.CoreCompileInputs.cache
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\obj\Debug\ProjectLABPSD.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\obj\Debug\ProjectLABPSD.pdb
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\ProjectLABPSD.dll.config
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\ProjectLABPSD.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\ProjectLABPSD.pdb
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\csc.exe
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\csc.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\csc.rsp
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\csi.exe
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\csi.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\csi.rsp
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.AppContext.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Collections.Immutable.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Console.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Globalization.Calendars.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.IO.Compression.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.IO.FileSystem.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Net.Http.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Net.Sockets.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.ValueTuple.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Xml.XPath.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\vbc.exe
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\vbc.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\vbc.rsp
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\VBCSCompiler.exe
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\roslyn\VBCSCompiler.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\EntityFramework.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\EntityFramework.SqlServer.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\EntityFramework.xml
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\EntityFramework.SqlServer.xml
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Wellend\Kuliah\Semester 4\PSD\Testing\ProjectLABPSD\obj\Debug\ProjectL.F2A29995.Up2Date
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\ProjectLABPSD.dll.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\ProjectLABPSD.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\ProjectLABPSD.pdb
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\csc.exe
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\csc.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\csc.rsp
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\csi.exe
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\csi.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\csi.rsp
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.AppContext.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Collections.Immutable.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Console.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Globalization.Calendars.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.IO.Compression.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.IO.FileSystem.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Net.Http.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Net.Sockets.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Reflection.Metadata.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.ValueTuple.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Xml.XPath.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\vbc.exe
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\vbc.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\vbc.rsp
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\VBCSCompiler.exe
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\roslyn\VBCSCompiler.exe.config
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\EntityFramework.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\EntityFramework.SqlServer.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\EntityFramework.xml
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\EntityFramework.SqlServer.xml
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\obj\Debug\ProjectLABPSD.csproj.AssemblyReference.cache
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\obj\Debug\ProjectLABPSD.csproj.CoreCompileInputs.cache
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\obj\Debug\ProjectL.F2A29995.Up2Date
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\obj\Debug\ProjectLABPSD.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\obj\Debug\ProjectLABPSD.pdb
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportSource.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.Shared.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.Web.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Wellend\Kuliah\Semester 4\PSD\ProjectLABPSD\ProjectLABPSD\bin\stdole.dll

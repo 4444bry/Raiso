@@ -1,0 +1,65 @@
+﻿* {
+margin: 0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+.content {
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 30px;
+}
+
+.content .container {
+display: flex;
+flex-direction: column;
+background-color: #f8fafc;
+border: 1px solid rgb(220, 220, 220);
+border-radius: 10px;
+width: 350px;
+}
+
+.content .container .itemlist {
+background-color: #3CBA54;
+color: white;
+border-bottom: 1px solid rgb(220, 220, 220);
+border-radius: 10px 10px 0px 0px;
+padding: 20px;
+font-size: 18px;
+font-weight: bold;
+}
+
+.content .stationery {
+display: flex;
+justify-content: center;
+}
+
+.content .stationery .container2 {
+padding: 20px;
+display: flex;
+gap: 15px;
+flex-direction: column;
+}
+
+.gridview th {
+background-color: white;
+color: #333;
+font-weight: bold;
+padding: 20px;
+border: 1px solid #ddd;
+}
+
+.gridview td {
+border: 1px solid #ddd;
+text-align: center;
+padding: 8px;
+}
+
+.gridview tr:nth-child(even) {
+background-color: #f2f2f2;
+}
+
+.gridview tr:nth-child(odd) {
+background-color: white;
+}

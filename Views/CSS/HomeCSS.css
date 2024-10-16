@@ -1,0 +1,119 @@
+﻿* {
+margin: 0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+.content {
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 30px;
+}
+
+.content .container {
+display: flex;
+flex-direction: column;
+background-color: #f8fafc;
+border: 1px solid rgb(220, 220, 220);
+border-radius: 10px;
+}
+
+.content .container .itemlist {
+background-color: white;
+color: #3CBA54;
+border-bottom: 1px solid rgb(220, 220, 220);
+border-radius: 10px 10px 0px 0px;
+padding: 20px;
+font-size: 18px;
+font-weight: bold;
+}
+
+
+.content .container2 {
+padding: 20px;
+display: flex;
+flex-direction: column;
+gap: 15px;
+}
+
+.gridview th {
+background-color: white;
+color: #333;
+font-weight: bold;
+padding: 20px;
+border: 1px solid #ddd;
+}
+
+.gridview td {
+border: 1px solid #ddd;
+text-align: center;
+padding: 8px;
+}
+
+.gridview tr:nth-child(even) {
+background-color: #f2f2f2;
+}
+
+.gridview tr:nth-child(odd) {
+background-color: white;
+}
+
+
+.buttonInsert {
+width: fit-content;
+padding: 10px;
+border: none;
+border-radius: 5px;
+border: 1px solid #3ba05f;
+background-color: #3ba05f;
+cursor: pointer;
+color: white;
+font-size: 14px;
+font-weight: 500;
+}
+
+.buttonInsert:hover {
+background-color: rgb(59, 160, 95,0.9);
+}
+
+.action-buttondet {
+padding: 10px 15px;
+border-radius: 5px;
+border: 1px solid #3CBA54;
+background-color: #3CBA54;
+cursor: pointer;
+color: white;
+}
+
+.action-buttondet:hover {
+background-color: rgb(60, 186, 84,0.9);
+}
+
+.action-buttonup {
+padding: 10px 15px;
+border-radius: 5px;
+border: 1px solid #3CBA54;
+background-color: white;
+cursor: pointer;
+color: #3CBA54;
+}
+
+.action-buttonup:hover {
+background-color: #3CBA54;
+color: white;
+}
+
+.action-buttondel {
+padding: 10px 15px;
+border-radius: 5px;
+border: none;
+background-color: #DB3236;
+color: white;
+cursor: pointer;
+}
+
+
+.action-buttondel:hover {
+background-color: red;
+}

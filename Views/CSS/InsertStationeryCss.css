@@ -1,0 +1,79 @@
+﻿* {
+margin: 0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+.content {
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 30px;
+}
+
+.content .container {
+display: flex;
+flex-direction: column;
+background-color: #f8fafc;
+border: 1px solid rgb(220, 220, 220);
+border-radius: 10px;
+}
+
+.content .container .insert {
+background-color: #3CBA54;
+color: white;
+border-bottom: 1px solid rgb(220, 220, 220);
+border-radius: 10px 10px 0px 0px;
+padding: 20px;
+font-size: 18px;
+font-weight: bold;
+}
+
+.inserts .container2 {
+padding: 20px;
+border-radius: 0px;
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 20px;
+}
+
+.inserts .container2 .row {
+width: 350px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.inserts .container2 .row input {
+width: 200px;
+padding: 10px;
+border-radius: 5px;
+border: 1px solid rgb(220, 220, 220);
+}
+
+
+.button {
+width: 280px;
+font-size: 16px;
+font-weight: 600;
+padding: 10px 15px;
+border-radius: 5px;
+border: 1px solid #3CBA54;
+background-color: white;
+cursor: pointer;
+color: #3CBA54;
+}
+
+.button:hover {
+background-color: #3CBA54;
+color: white;
+}
+
+
+.errorMessage {
+width: 100%;
+display: flex;
+justify-content: center;
+font-size: 14px;
+}

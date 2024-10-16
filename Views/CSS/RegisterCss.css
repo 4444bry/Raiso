@@ -1,0 +1,88 @@
+﻿* {
+margin: 0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+}
+
+.content {
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 30px;
+}
+
+.content .container {
+display: flex;
+flex-direction: column;
+background-color: #f8fafc;
+border: 1px solid rgb(220, 220, 220);
+border-radius: 10px;
+}
+
+.content .container .regis {
+background-color: #f1f3f5;
+border-bottom: 1px solid rgb(220, 220, 220);
+border-radius: 10px 10px 0px 0px;
+padding: 20px;
+font-size: 18px;
+font-weight: bold;
+color: #42B549;
+}
+
+.register .container2 {
+padding: 20px;
+border-radius: 0px;
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 10px;
+}
+
+.register .container2 .row {
+width: 430px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.register .container2 .rowGender {
+width: 430px;
+display: flex;
+align-items: center;
+justify-content: left;
+gap: 50px;
+}
+
+.register .container2 .row input {
+width: 300px;
+padding: 10px;
+border-radius: 5px;
+border: 1px solid rgb(220, 220, 220);
+}
+
+.Label {
+font-size: 16px;
+}
+
+input[type="radio"] {
+width: 30px;
+}
+
+.button {
+width: 300px;
+padding: 10px;
+border-radius: 5px;
+border: none;
+cursor: pointer;
+font-size: 16px;
+font-weight: 600;
+background-color: #3ba05f;
+color: white;
+}
+
+
+.errorMessage {
+width: 75%;
+align-self: flex-end;
+font-size: 14px;
+}

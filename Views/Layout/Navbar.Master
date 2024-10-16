@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Navbar.master.cs" Inherits="ProjectLABPSD.Views.Layout.Navbar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="../CSS/NavbarCss.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <header>
+        <div class="nav">
+            <div class="container">
+                <ul class="menu">
+                   <% if (ProjectLABPSD.Controllers.AuthController.UserIsLoggedIn())
+                     {
+                         if (ProjectLABPSD.Controllers.AuthController.UserIsAdmin())
+                         {
+                             DisplayAdminNavigationLinks();
+                         }
+                         else
+                         {
+                             DisplayCustomerNavigationLinks();
+                         }
+                     }
+                     else
+                     {
+                         DisplayGuestNavigationLinks();
+                     } %>     
+                        <li id="liLogout" runat="server" visible="false">
+                            <asp:Button CssClass="LogoutButton" ID="ButtonLogout" runat="server" Text="Logout" OnClick="Logout_Click" />
+                        </li>
+                </ul>
+            </div>
+            <div class="garis"></div>
+        </div>
+    </header>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+</form>
+</body>
+</html>
